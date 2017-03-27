@@ -26,6 +26,7 @@ export const attention = 'hsla(48, 89%, 55%, 1)';
 export const critical = 'hsla(6, 63%, 46%, 1)';
 export const positive = 'hsla(214, 70%, 53%, 1)';
 export const negative = 'hsla(39, 100%, 50%, 1)';
+export const highlight = 'hsla(282, 44%, 47%, 1)';
 
 // Social network colors
 export const twitter = '#00ACED';
