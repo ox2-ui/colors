@@ -2,7 +2,7 @@
 ![NPM version](https://img.shields.io/badge/npm-private-orange.svg?style=flat)
 <!-- ![NPM version](https://img.shields.io/npm/v/@ox2/colors.svg?style=flat) -->
 
-Ui color palette.
+UI color palette.
 
 ## Installation
 Install using [npm](http://npmjs.com):
